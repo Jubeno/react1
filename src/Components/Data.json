@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Ngô Như Thành",
+        "tel":"098 446 1348",
+        "permission":"Normal User"
+    },
+    {
+        "id":2,
+        "name":"Đỗ Thị Dung",
+        "tel":"037 737 6751",
+        "permission":"Normal User"
+    },
+    {
+        "id":3,
+        "name":"Ngô Oanh Kiều",
+        "tel":"097 348 4823",
+        "permission":"Normal User"
+    },
+    {
+        "id":4,
+        "name":"Ngô Như Thành Trung",
+        "tel":"098 446 1348",
+        "permission":"Admin"
+    } 
+]
